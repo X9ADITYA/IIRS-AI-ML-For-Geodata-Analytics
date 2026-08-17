@@ -436,27 +436,7 @@ AI/ML can be applied to spatial data for tasks such as:
 
 ## 44. What is the relationship between GIS and AI/ML?
 
-GIS provides tools and data for working with geographic information, while AI/ML can provide methods for automatically analyzing complex spatial datasets and discovering patterns.
+GIS provides tools and data for working with geographic information, while AI/ML can provide methods for automatically analyzing complex spatial datasets and discovering Patterns.
 
 ---
 
-# ⭐ Important Interview Questions
-
-Before an interview, make sure you can clearly explain:
-
-1. GIS
-2. Geospatial Technology
-3. Spatial vs Attribute Data
-4. Vector vs Raster
-5. Structured vs Semi-structured vs Unstructured Data
-6. Big Data
-7. 5 Vs of Big Data
-8. Primary vs Secondary Data
-9. Data Cleaning
-10. EDA
-11. Geoprocessing
-12. Projection
-13. Scale
-14. Accuracy
-15. Resolution
-16. AI/ML for Spatial Data Analysis
